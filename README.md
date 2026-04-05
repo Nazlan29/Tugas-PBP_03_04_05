@@ -1,4 +1,4 @@
-1. tugas_03_pbp
+**1. tugas_03_pbp**
     Script ini bertujuan untuk mengolah data berupa daftar rank dalam sebuah array.
 1) script menyimpan beberapa nama rank (seperti warrior, elite, sampai mythical immortal) ke dalam sebuah daftar.
 2) script menghitung jumlah seluruh data dalam daftar tersebut, sehingga diketahui totalnya ada 10 rank.
@@ -10,7 +10,7 @@ jumlah data (10)
 nama rank yang diambil (mythical honor)
 hasil potongan kata (honor)
 
-2. tugas_04_pbp
+**2. tugas_04_pbp**
 
 Script ini bertujuan untuk menghubungkan ke database dan mengupdate data melalui terminal (CLI).
 
@@ -32,8 +32,8 @@ Script ini bertujuan untuk menghubungkan ke database dan mengupdate data melalui
 jika berhasil, akan muncul pesan bahwa data berhasil diupdate
 jika gagal, akan muncul pesan error
 
-3. tugas_05_pbp
-4. Menjalankan PHP dengan XAMPP
+**3. **tugas_05_pbp****
+Menjalankan PHP dengan XAMPP
 PHP harus dijalankan melalui web server. Salah satu cara termudah adalah menggunakan XAMPP.
 
  Langkah-langkah:
