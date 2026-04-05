@@ -21,7 +21,7 @@ $id = readline("Masukan id yang ingin di update:");
 $namaBaru = readline("Masukan Nama baru : ");
 
 // update query
-$query = "UPDTE tamu SET nama= '$namaBaru' WHERE id='$id' ";
+$query = " UPDATE tamu SET nama= '$namaBaru' WHERE id='$id' ";
 
 // eksekusi query
 
