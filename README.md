@@ -1,5 +1,6 @@
 **1. tugas_03_pbp**
-    Script ini bertujuan untuk mengolah data berupa daftar rank dalam sebuah array.
+
+Script ini bertujuan untuk mengolah data berupa daftar rank dalam sebuah array.
 1) script menyimpan beberapa nama rank (seperti warrior, elite, sampai mythical immortal) ke dalam sebuah daftar.
 2) script menghitung jumlah seluruh data dalam daftar tersebut, sehingga diketahui totalnya ada 10 rank.
 3) script mengambil salah satu rank, yaitu urutan ke-8 dalam daftar, yang isinya "mythical honor".
