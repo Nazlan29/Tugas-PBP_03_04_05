@@ -4,8 +4,8 @@ tugas_05.pbp
 PHP harus dijalankan melalui web server. Salah satu cara termudah adalah menggunakan XAMPP.
 
  Langkah-langkah:
-1. Install dan buka XAMPP, lalu jalankan Apache.
-2. Simpan file PHP di folder `C:\xampp\htdocs\`.
+1. Install dan buka XAMPP, lalu jalankan Apache dan mysql hingga hijau.
+2. Simpan file PHP yang telah di buat di folder `C:\xampp\htdocs\`.
 3. Buka browser dan akses `http://localhost/namafile.php`.
 
 Kesimpulan:
